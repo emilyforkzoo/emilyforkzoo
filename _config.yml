@@ -23,7 +23,6 @@ twitter_username: #jekyllrb
 github_username:  #jekyll
 
 header_pages:
-  - about.md
   - platform.md
   
 # Build settings
